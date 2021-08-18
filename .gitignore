@@ -6,10 +6,11 @@
 /pkg/
 /spec/reports/
 /spec/examples.txt
-/test/tmp/
+/test/
 /test/version_tmp/
 /tmp/
-
+/config/credentials.yml.enc
+/config/database.yml
 # Used by dotenv library to load environment variables.
 # .env
 
